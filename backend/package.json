@@ -1,0 +1,27 @@
+{
+  "name": "refugeaid-backend",
+  "version": "0.1.0",
+  "description": "RefugeAid Lambda backend — Bedrock + Textract + Translate pipeline for refugee document assistance",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.654.0",
+    "@aws-sdk/client-dynamodb": "^3.654.0",
+    "@aws-sdk/client-s3": "^3.654.0",
+    "@aws-sdk/client-textract": "^3.654.0",
+    "@aws-sdk/client-translate": "^3.654.0",
+    "@aws-sdk/lib-dynamodb": "^3.654.0",
+    "@aws-sdk/s3-request-presigner": "^3.654.0",
+    "lambda-multipart-parser": "^1.0.1",
+    "pdf-lib": "^1.17.1",
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1"
+  }
+}
