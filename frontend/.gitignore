@@ -1,0 +1,6 @@
+# Frontend build
+dist/
+build/
+
+# Vite cache
+.vite/

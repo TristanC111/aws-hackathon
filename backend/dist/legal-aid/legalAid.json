@@ -1,0 +1,84 @@
+{
+  "organizations": [
+    {
+      "name": "International Rescue Committee",
+      "phone": "+1-212-551-3000",
+      "website": "https://www.rescue.org",
+      "languages": ["ar", "so", "uk", "es", "fr", "ps", "fa", "ti", "am", "sw"],
+      "country": "US",
+      "city": "New York"
+    },
+    {
+      "name": "HIAS",
+      "phone": "+1-212-967-4100",
+      "website": "https://www.hias.org",
+      "languages": ["ar", "uk", "es", "fr", "ru", "fa"],
+      "country": "US",
+      "city": "New York"
+    },
+    {
+      "name": "CLINIC (Catholic Legal Immigration Network)",
+      "phone": "+1-301-565-4800",
+      "website": "https://www.cliniclegal.org",
+      "languages": ["es", "ar", "fr", "en"],
+      "country": "US",
+      "city": "Silver Spring"
+    },
+    {
+      "name": "RAICES",
+      "phone": "+1-210-226-7722",
+      "website": "https://www.raicestexas.org",
+      "languages": ["es", "en", "ar", "fr"],
+      "country": "US",
+      "city": "San Antonio"
+    },
+    {
+      "name": "Asylum Access UK",
+      "phone": "+44-20-7065-0848",
+      "website": "https://asylumaccess.org",
+      "languages": ["ar", "fa", "ps", "ti", "so", "ku", "en"],
+      "country": "UK",
+      "city": "London"
+    },
+    {
+      "name": "Refugee Council UK",
+      "phone": "+44-20-7346-6700",
+      "website": "https://www.refugeecouncil.org.uk",
+      "languages": ["ar", "fa", "ps", "ti", "so", "ku", "en", "uk"],
+      "country": "UK",
+      "city": "London"
+    },
+    {
+      "name": "Refugee Legal Australia",
+      "phone": "+61-3-9413-0100",
+      "website": "https://refugeelegal.org.au",
+      "languages": ["ar", "fa", "ps", "my", "en", "ti"],
+      "country": "AU",
+      "city": "Melbourne"
+    },
+    {
+      "name": "Canadian Council for Refugees",
+      "phone": "+1-514-277-7223",
+      "website": "https://ccrweb.ca",
+      "languages": ["en", "fr", "ar", "es", "sw"],
+      "country": "CA",
+      "city": "Montreal"
+    },
+    {
+      "name": "Pro Asyl",
+      "phone": "+49-69-242-31-420",
+      "website": "https://www.proasyl.de",
+      "languages": ["ar", "fa", "ps", "ti", "ku", "uk", "en"],
+      "country": "DE",
+      "city": "Frankfurt"
+    },
+    {
+      "name": "France Terre d'Asile",
+      "phone": "+33-1-53-04-39-99",
+      "website": "https://www.france-terre-asile.org",
+      "languages": ["fr", "ar", "fa", "ti", "so", "en"],
+      "country": "FR",
+      "city": "Paris"
+    }
+  ]
+}
